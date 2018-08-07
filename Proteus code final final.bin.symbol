@@ -1,0 +1,34 @@
+< THE SYMBOL TABLE >  Proteus code final final.bin  --  emu8086 assembler version: 4.08 
+===================================================================================================
+Name                     	Offset    	Size      	Type      	Segment   
+===================================================================================================
+TEMP                     	00003     	2         	VAR       	(NOSEG)   
+PRES                     	00005     	2         	VAR       	(NOSEG)   
+HUMI                     	00007     	2         	VAR       	(NOSEG)   
+CNT1                     	00009     	1         	VAR       	(NOSEG)   
+TEMP1                    	0000A     	1         	VAR       	(NOSEG)   
+TEMP2                    	0000B     	1         	VAR       	(NOSEG)   
+PRES1                    	0000C     	1         	VAR       	(NOSEG)   
+PRES2                    	0000D     	1         	VAR       	(NOSEG)   
+HUMI1                    	0000E     	1         	VAR       	(NOSEG)   
+HUMI2                    	0000F     	1         	VAR       	(NOSEG)   
+NEGA                     	00010     	1         	VAR       	(NOSEG)   
+X1                       	0044E     	-1        	LABEL     	(NOSEG)   
+X20                      	00459     	-1        	LABEL     	(NOSEG)   
+T_ISR                    	004DC     	-1        	LABEL     	(NOSEG)   
+AA                       	004F3     	-1        	LABEL     	(NOSEG)   
+READ                     	004F4     	-1        	NEAR      	(NOSEG)   
+X26                      	00506     	-1        	LABEL     	(NOSEG)   
+X27                      	0050E     	-1        	LABEL     	(NOSEG)   
+X24                      	00538     	-1        	LABEL     	(NOSEG)   
+X25                      	00540     	-1        	LABEL     	(NOSEG)   
+X22                      	0056A     	-1        	LABEL     	(NOSEG)   
+X23                      	00572     	-1        	LABEL     	(NOSEG)   
+UPDT                     	0058D     	-1        	NEAR      	(NOSEG)   
+BB                       	005A6     	-1        	LABEL     	(NOSEG)   
+X5                       	00678     	-1        	LABEL     	(NOSEG)   
+X6                       	0067A     	-1        	LABEL     	(NOSEG)   
+===================================================================================================
+[ 23-Apr-16  --  1:16:10 AM ] 
+< END >
+ 

@@ -1,0 +1,36 @@
+< THE SYMBOL TABLE >  Design code final final.bin  --  emu8086 assembler version: 4.08 
+===================================================================================================
+Name                     	Offset    	Size      	Type      	Segment   
+===================================================================================================
+TEMP                     	00208     	2         	VAR       	(NOSEG)   
+PRES                     	0020A     	2         	VAR       	(NOSEG)   
+HUMI                     	0020C     	2         	VAR       	(NOSEG)   
+CNT1                     	0020E     	1         	VAR       	(NOSEG)   
+TEMP1                    	0020F     	1         	VAR       	(NOSEG)   
+TEMP2                    	00210     	1         	VAR       	(NOSEG)   
+PRES1                    	00211     	1         	VAR       	(NOSEG)   
+PRES2                    	00212     	1         	VAR       	(NOSEG)   
+HUMI1                    	00213     	1         	VAR       	(NOSEG)   
+HUMI2                    	00214     	1         	VAR       	(NOSEG)   
+NEGA                     	00215     	1         	VAR       	(NOSEG)   
+ST1                      	00400     	-1        	LABEL     	(NOSEG)   
+DEL                      	00458     	-1        	LABEL     	(NOSEG)   
+X1                       	0046E     	-1        	LABEL     	(NOSEG)   
+T_ISR1                   	004F1     	-1        	LABEL     	(NOSEG)   
+T_ISR2                   	004F6     	-1        	LABEL     	(NOSEG)   
+AA                       	0050E     	-1        	LABEL     	(NOSEG)   
+READ                     	0050F     	-1        	NEAR      	(NOSEG)   
+X22                      	00521     	-1        	LABEL     	(NOSEG)   
+X23                      	00529     	-1        	LABEL     	(NOSEG)   
+X24                      	00553     	-1        	LABEL     	(NOSEG)   
+X25                      	0055B     	-1        	LABEL     	(NOSEG)   
+X26                      	00585     	-1        	LABEL     	(NOSEG)   
+X27                      	0058D     	-1        	LABEL     	(NOSEG)   
+UPDT                     	005A8     	-1        	NEAR      	(NOSEG)   
+BB                       	005C1     	-1        	LABEL     	(NOSEG)   
+X5                       	00693     	-1        	LABEL     	(NOSEG)   
+X6                       	00695     	-1        	LABEL     	(NOSEG)   
+===================================================================================================
+[ 23-Apr-16  --  1:14:26 AM ] 
+< END >
+ 
